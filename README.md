@@ -12,6 +12,9 @@ A simple counter application to understand state management (`useState`).
 ### 2. [Props and Tailwind CSS](./propsAndTailwindcss)
 A project demonstrating the use of component props and styling with Tailwind CSS.
 
+### 2. [(bg-changer) more of useState and tailwindcss](./bg-changer)
+A project demonstrating the use of `useState` to change the background color of the page.
+
 ## Getting Started
 
 Each project is a standalone Vite application. To run a project:
