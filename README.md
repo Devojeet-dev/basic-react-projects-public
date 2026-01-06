@@ -6,14 +6,17 @@ This repository contains a collection of basic React projects created for the pu
 
 ## Projects
 
-### 1. [Basic Counter](./basic-counter)
+### 1. [Basic Counter](./1_basic-counter)
 A simple counter application to understand state management (`useState`).
 
-### 2. [Props and Tailwind CSS](./propsAndTailwindcss)
+### 2. [Props and Tailwind CSS](./2_propsAndTailwindcss)
 A project demonstrating the use of component props and styling with Tailwind CSS.
 
-### 2. [(bg-changer) more of useState and tailwindcss](./bg-changer)
+### 2. [(bg-changer) more of useState and tailwindcss](./3_bg-changer)
 A project demonstrating the use of `useState` to change the background color of the page.
+
+### 3. [Password Generator](./4_passwordGenerator)
+A real-time password generator built with React and Tailwind CSS using `useState` and `useEffect`, featuring length control, number and special character toggles, and copy-to-clipboard functionality.
 
 ## Getting Started
 
