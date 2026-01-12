@@ -21,6 +21,36 @@ A real-time password generator built with React and Tailwind CSS using `useState
 ### 5. [Currency Converter](./5_currencyConverter/)
 A real-time currency converter built with React and Tailwind CSS, leveraging a custom hook to fetch exchange rates and perform instant currency conversion with dynamic currency selection.
 
+### 6. [React Router](./6_reactRouter/)
+A real-time GitHub Profile Viewer built using React, React Router DOM, and Tailwind CSS.
+Project ka main focus hai client-side routing ko clearly samajhna by dividing the app into multiple pages like Home, About, and Contact.
+
+Home page par user GitHub username search kar sakta hai, jahan se live GitHub API ke through profile data fetch hota hai — including avatar, bio, followers, following, repositories, and profile link.
+
+React Router DOM ka use karke:
+
+Smooth navigation without page reload
+
+Active route highlighting using NavLink
+
+Nested routing with Outlet
+
+Dynamic routes using URL parameters
+
+Key highlights:
+
+Real-time API data fetching
+
+Clean, route-based component structure
+
+Dynamic URL handling
+
+Responsive UI with Tailwind CSS
+
+Practical implementation of React Router concepts
+
+Overall, yeh project ek strong example hai of building scalable React applications using React Router with real-world API integration.
+
 ## Getting Started
 
 Each project is a standalone Vite application. To run a project:
